@@ -1,1 +1,1 @@
-![Image](./reactions/peter_meth.jpg?raw=true)
+![Image](./peter_meth.jpg?raw=true)
