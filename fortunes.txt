@@ -1,0 +1,207 @@
+
+Something better...
+
+1 (obvious): Excuse me.  Is that your nose or did a bus park on your face?
+2 (meteorological): Everybody take cover.  She's going to blow.
+3 (fashionable): You know, you could de-emphasize your nose if you wore something larger.  Like ... Wyoming.
+4 (personal): Well, here we are.  Just the three of us.
+5 (punctual): Alright gentlemen.  Your nose was on time but you were fifteen minutes late.
+6 (envious): Oooo, I wish I were you.  Gosh.  To be able to smell your own ear.
+7 (naughty): Pardon me, Sir.  Some of the ladies have asked if you wouldn't mind putting that thing away.
+8 (philosophical): You know.  It's not the size of a nose that's important. It's what's in it that matters.
+9 (humorous): Laugh and the world laughs with you.  Sneeze and it's goodbye, Seattle.
+10 (commercial): Hi, I'm Earl Schibe and I can paint that nose for $39.95.
+11 (polite): Ah.  Would you mind not bobbing your head.  The orchestra keeps changing tempo.
+12 (melodic): Everybody! "He's got the whole world in his nose."
+	       -- Steve Martin, "Roxanne"
+
+
+With women, I've got a long bamboo pole with a leather loop on the end of
+it.  I slip the loop around their necks so they can't get away or come too
+close.  Like catching snakes.
+                -- Marlon Brando
+"My sense of purpose is gone! I have no idea who I AM!"
+    "Oh, my God... You've.. You've turned him into a DEMOCRAT!"
+-- Doonesbury
+"Though a program be but three lines long,
+someday it will have to be maintained."
+-- The Tao of Programming
+There is nothing wrong with abstinence, in moderation. The public demands certainties;
+The public demands certainties;  it must be told definitely and a bit raucously that this
+is true and that is false.  But there are no certainties. -- H.L. Mencken, "Prejudice" On
+a tous un peu peur de l'amour, mais on a surtout peur de souffrir ou de faire souffrir.
+   [One is always a little afraid of love, but above all, one is afraid of pain or causing
+    pain.]
+
+    	A novice asked the master: "I perceive that one computer company is
+much larger than all others.  It towers above its competition like a giant
+among dwarfs.  Any one of its divisions could comprise an entire business.
+Why is this so?"
+	The master replied, "Why do you ask such foolish questions?  That
+company is large because it is so large.  If it only made hardware, nobody
+would buy it.  If it only maintained systems, people would treat it like a
+servant.  But because it combines all of these things, people think it one
+of the gods!  By not seeking to strive, it conquers without effort."
+                -- Geoffrey James, "The Tao of Programming"
+
+Suffering alone exists, none who suffer;
+The deed there is, but no doer thereof;
+Nirvana is, but no one is seeking it;
+The Path there is, but none who travel it.
+                -- "Buddhist Symbolism", Symbols and Values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################################################################
+
+anime "Black Clover" huh? as I try to install eclim no JAXB dude not grovy or should I say
+non groovy hah tublar. stank
+
+
+#IgnorePkg   =
+A true artist will let his wife starve, his children go barefoot, his mother
+drudge for his living at seventy, sooner than work at anything but his art.
+                -- Shaw
+
+                And so it was, later, As the miller told his tale, That her face, at first
+                just ghostly, Turned a whiter shade of pale. -- Procol Harum
+
+
+
+"The clerics and their lay allies commonly tell us, that if we refuse to admit that there
+is good ground for expressing definite convictions about certain topics, the bonds of
+human society will dissolve and mankind lapse into savagery. There are several answers to
+this assertion. One is that the bonds of human society were formed without the aid of
+their theology; and, in the opinion of not a few competent judges, have been weakened
+rather than strengthened by a good deal of it. Greek science, Greek art, the ethics of old
+Israel, the social organisation of old Rome, contrived to come into being, without the
+help of any one who believed in a single distinctive article of the simplest of the
+Christian creeds. The science, the art, the jurisprudence, the chief political and social
+theories, of the modern world have grown out of those of Greece and Rome-not by favour of,
+but in the teeth of, the fundamental teachings of early Christianity, to which science,
+art, and any serious occupation with the things of this world, were alike despicable."
+[Thomas Huxley, "Agnosticism and Christianity" 1889]
+http://aleph0.clarku.edu/huxley/CE5/Agn-X.html
+
+
+Eric Raymond:  I want to live in a world where software doesn't suck.
+Richard Stallman:  Any software that isn't free sucks.
+Linus Torvalds:  I'm interested in free beer.
+Richard Stallman:  That's okay, as long as I don't have to drink it.  I
+                   don't like beer.
+                -- LinuxWorld Expo panel, 4 March 1999
+
+You are farsighted, a good planner, an ardent lover, and a faithful friend.
+
+
+        There was once a programmer who was attached to the court of the
+warlord of Wu.  The warlord asked the programmer: "Which is easier to design:
+an accounting package or an operating system?"
+        "An operating system," replied the programmer.
+        The warlord uttered an exclamation of disbelief.  "Surely an
+accounting package is trivial next to the complexity of an operating
+system," he said.
+        "Not so," said the programmer, "when designing an accounting package,
+the programmer operates as a mediator between people having different ideas:
+how it must operate, how its reports must appear, and how it must conform to
+the tax laws.  By contrast, an operating system is not limited my outside
+appearances.  When designing an operating system, the programmer seeks the
+simplest harmony between machine and ideas.  This is why an operating system
+is easier to design."
+        The warlord of Wu nodded and smiled.  "That is all good and well, but
+which is easier to debug?"
+        The programmer made no reply.
+                -- Geoffrey James, "The Tao of Programming"
+
+Come, every frustum longs to be a cone,
+And every vector dreams of matrices.
+Hark to the gentle gradient of the breeze:
+It whispers of a more ergodic zone.
+                -- Stanislaw Lem, "Cyberiad"
+
+Marigold:               Jealousy
+Mint:                   Virtue
+Orange blossom:         Your purity equals your loveliness
+Orchid:                 Beauty, magnificence
+Pansy:                  Thoughts
+Peach blossom:          I am your captive
+Petunia:                Your presence soothes me
+Poppy:                  Sleep
+Rose, any color:        Love
+Rose, deep red:         Bashful shame
+Rose, single, pink:     Simplicity
+Rose, thornless, any:   Early attachment
+Rose, white:            I am worthy of you
+Rose, yellow:           Decrease of love, rise of jealousy
+Rosebud, white:         Girlhood, and a heart ignorant of love
+Rosemary:               Remembrance
+Sunflower:              Haughtiness
+Tulip, red:             Declaration of love
+Tulip, yellow:          Hopeless love
+Violet, blue:           Faithfulness
+Violet, white:          Modesty
+Zinnia:                 Thoughts of absent friends
+        * An upside-down blossom reverses the meaning.
+
+love, n.:
+	When you like to think of someone on days that begin with a morning.
+
+So you think that money is the root of all evil.  Have you ever asked what
+is the root of money?
+		-- Ayn Rand
+
+If you resist reading what you disagree with, how will you ever acquire
+deeper insights into what you believe?  The things most worth reading
+are precisely those that challenge our convictions.
+
+    A musical reviewer admitted he always praised the first show of a
+new theatrical season.  "Who am I to stone the first cast?"
+
+
+Many changes of mind and mood; do not hesitate too long.
+Your kerberos ticket has expired - please run kinit -f
+
+(defun NF (a c)(cond ((null c) () )((atom (car c))(append (list (eval (list 'getchar
+(list(car c) 'a) (cadr c)))) (nf a (cddr c)))) (t (append (list (implode (nf a (car
+c))))(nf a (cdr c))))))
+
+(defun AD (want-job challenging boston-area)(cond((or (not (equal want-job
+'yes))(not(equal boston-area 'yes)) (lessp challenging 7)) () ) (t
+(append(nf(get'ad'expr)'((caaddr 1 caadr 2 car 1 car 1)(car 5 cadadr 9 cadadr 8 cadadr
+9 caadr 4 car 2 car 1)(car 2 caadr 4))) (list '851-5071x2661))))) ;;;     We are an
+  affirmative action employer.
+  ')))'))))))')))))))
+
+The Sage
+
+Honest people use no rhetoric;
+Rhetoric is not honesty.
+Enlightened people are not cultured;
+Culture is not enlightenment.
+Content people are not wealthy;
+Wealth is not contentment.
+So the sage does not serve himself;
+The more he does for others, the more he is satisfied;
+The more he gives, the more he receives.
+Nature flourishes at the expense of no one;
+So the sage benefits all men and contends with none.
+		-- Lao Tse, "Tao Te Ching"
