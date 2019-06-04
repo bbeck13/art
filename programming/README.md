@@ -2,7 +2,7 @@
 ![Image](./programing_religions.png?raw=true)
 ![Image](./googleg.jpg?raw=true)
 ![Image](./internet.jpg?raw=true)
-![Image](./captian.jpg?raw=true)
+![Image](./captian.png?raw=true)
 ![Image](./naughty.jpg?raw=true)
 ![Image](./ssd.jpg?raw=true)
 ![Image](./the_big_iron.jpg?raw=true)
