@@ -5,4 +5,3 @@
 ![Image](./captian.png?raw=true)
 ![Image](./naughty.jpg?raw=true)
 ![Image](./ssd.jpg?raw=true)
-![Image](./the_big_iron.jpg?raw=true)
