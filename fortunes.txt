@@ -234,3 +234,11 @@ If it doesn't, hunt it down and shoot it with an AK 47
 "Remember, Information is not knowledge; Knowledge is not Wisdom;
 Wisdom is not truth; Truth is not beauty; Beauty is not love;
 Love is not music; Music is the best." -- Frank Zappa
+
+A man said to the Universe,
+"Sir, I exist!"
+"However," replied the Universe,
+"The fact has not created in me
+A sense of obligation."
+   [Stephen Crane, Poem 96
+       from _War_Is_Kind_, 1899]
