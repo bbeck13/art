@@ -1,1 +1,1 @@
-![Image](./bobby.h?raw=trueelp.jpg)
+![Image](./bobby.help.jpg?raw=true)
