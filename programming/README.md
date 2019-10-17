@@ -5,3 +5,6 @@
 ![Image](./captian.png?raw=true)
 ![Image](./naughty.jpg?raw=true)
 ![Image](./ssd.jpg?raw=true)
+![Image](./bsod.jp?raw=trueg)
+![Image](./hello_z?raw=truea_worldu.jpg)
+![Image](./ssd.jpg?raw=true)
