@@ -2,3 +2,5 @@
 ![Image](./mckys.jpg?raw=true)
 ![Image](./kyself.jpg?raw=true)
 ![Image](./the_big_iron.png?raw=true)
+![Image](./talkshitgithit.png?raw=true)
+![Image](./jonsbond.jpg?raw=true)
